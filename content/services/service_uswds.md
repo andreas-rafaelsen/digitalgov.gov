@@ -38,4 +38,6 @@ authors:
   - dan-williams
   - ammie-farraj-feijoo
 
+aliases:
+  - /communities/uswds/
 ---
